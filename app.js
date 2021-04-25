@@ -13,4 +13,4 @@ console.log(Qualification);
 
 
 
-alert(' Hello ' + userName + ' your old is ' + age + ' and your live in ' + city + ' and your University Qualification is ' + Qualification );
+alert(' Hello ' + userName + ' your old is ' + age + ' and you live in ' + city + ' and your University Qualification is ' + Qualification );
